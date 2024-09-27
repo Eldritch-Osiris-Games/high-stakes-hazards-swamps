@@ -1,0 +1,36 @@
+{
+ "id":"high-stakes-hazards-swamps",
+ "title": "High Stakes Hazards: Swamps",
+ "description": "Exciting new hazards to use in your PF2e games, for any level of play!",
+ "version":"1.0.0",
+ "authors":[
+	{
+	"name": "Eldritch Osiris Games"
+	}
+],
+"packs":[
+	{
+	 "label":"Hazards",
+	 "name":"HSHS-Hazards",
+	 "path":"packs/hshs-hazards",
+	 "system": "pf2e",
+	 "type": "Actor"
+	}
+],
+	"compatibility":{
+	"minimum":"12",
+	"verified":"12"
+},
+"relationships": {
+    "systems": [
+      {
+        "id": "pf2e",
+        "type": "system",
+        "manifest": "https://github.com/foundryvtt/pf2e/releases/latest/download/system.json",
+        "compatibility": {
+          "minimum": "6.4.0"
+        }
+      }
+    ]
+  }
+}
