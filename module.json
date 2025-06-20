@@ -2,7 +2,7 @@
  "id":"high-stakes-hazards-swamps",
  "title": "High Stakes Hazards: Swamps",
  "description": "Exciting new hazards to use in your PF2e games, for any level of play!",
- "version":"1.0.0",
+ "version":"2.0.0",
  "authors":[
 	{
 	"name": "Eldritch Osiris Games"
@@ -19,7 +19,7 @@
 ],
 	"compatibility":{
 	"minimum":"12",
-	"verified":"12"
+	"verified":"13"
 },
 "relationships": {
     "systems": [
